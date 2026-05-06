@@ -9,13 +9,3 @@
 *   **"Silence does not mean absence; it means preparing for the decisive moment."**
 
 ---
-
-### ⚔️ About Me
-*   **Focus:** Building resilient systems and strategic developments.
-*   **Philosophy:** Move in silence, strike with precision.
-*   **Current Status:** Preparing for the next move.
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="Loard Zoala Stats" />
-</p>
