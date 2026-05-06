@@ -1,7 +1,7 @@
 # 「 Calmness is the most powerful weapon in battle 」
 
 <p align="center">
-  <img src="https://github.com/kiro-oxo/Kiro/blob/main/x.jpg" width="200" alt="Kiro PFP">
+  <img src="https://github.com/user-attachments/assets/56cb08eb-0418-4edc-bd65-34766dc9c1b6" width="200" alt="Kiro PFP">
 </p>
 
 ### ♟️ Strategy & Vision
